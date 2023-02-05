@@ -30,4 +30,4 @@ trenchesofit@zoneminder:/usr/share/zoneminder/www$ sudo python3 zoneminder-reoli
 2023-02-05 11:43:35,821 - urllib3.connectionpool - DEBUG - http://10.0.10.103:80 "POST /cgi-bin/api.cgi?cmd=GetTime&token=b4c1965a54516bf HTTP/1.1" 200 None
 2023-02-05 11:43:35,845 - root - INFO - Success! Camera presets should now be visible on the camera stream within Zoneminder.
 ```
-If configuration changes occur on you cameras, just re-run the "zoneminder-reolink-plugin.py" script.
+If configuration changes occur on your cameras, just re-run the "zoneminder-reolink-plugin.py" script.
